@@ -1,0 +1,84 @@
+.a
+{
+  border-style: dotted;
+  background-color: #008B8B;
+  text-decoration: none;
+  padding: 3px;
+  margin-right:20%;
+display: inline-block;
+padding-right: 60px;
+text-align: center;
+}
+nav
+{
+  border-style: dashed;
+  color: #00FFFF;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  margin:5%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 20px;
+  text-align: center;
+}
+img
+{
+display: inline-block;
+float:left;
+  border-style: groove;
+margin-top: inherit;
+
+}
+header
+{
+  text-align: center;
+}
+body
+{
+
+  background-color: #2F4F4F;
+  height: auto;
+  width: auto;
+
+}
+.abc{
+  float:left;
+font-size: 30px;
+  background: #4CAF50;
+  color: white;
+  padding: 15px;
+  width: 100%;
+  height: 100px;
+  overflow: scroll;
+  border: 1px solid #ccc;
+}
+.xyz
+{
+  width: 100%;
+  height: auto;
+display: block;
+}
+footer
+{
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  text-align: center;
+}
